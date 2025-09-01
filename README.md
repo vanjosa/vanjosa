@@ -32,11 +32,4 @@
 
 - Instagram: [@ovinianjos](https://www.instagram.com/ovinianjos/)
 
-## ✨ Fun Facts
-
-- Misturo educação, ciência e magia nas minhas atividades diárias
-- Sempre pronto para compartilhar uma boa história ou curiosidade do universo nerd
-
----
-
 Seja bem-vindo(a) ao meu perfil! Sinta-se à vontade para explorar, trocar ideias ou simplesmente conversar sobre livros, ciência, educação ou cultura geek. 🚀🧙‍♂️📚 <img src="https://komarev.com/ghpvc/?username=vanjosa&label=Visits" alt="profile views" />
