@@ -14,8 +14,8 @@
   - Análise e Desenvolvimento de Sistemas (ADS)
 - Nerd/geek de carteirinha e leitor incorrigível
 - 
-<img src="https://komarev.com/ghpvc/?username=vanjosa&label=Visits" alt="profile views" />
-<img src="https://github-readme-stats.vercel.app/api?username=vanjosa&show_icons=true" alt="GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanjosa&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=vanjosa&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanjosa&layout=compact" alt="Top Langs" />
 
 
 ## 🚀 Hobbies & Interesses
@@ -39,4 +39,4 @@
 
 ---
 
-Seja bem-vindo(a) ao meu perfil! Sinta-se à vontade para explorar, trocar ideias ou simplesmente conversar sobre livros, ciência, educação ou cultura geek. 🚀🧙‍♂️📚
+Seja bem-vindo(a) ao meu perfil! Sinta-se à vontade para explorar, trocar ideias ou simplesmente conversar sobre livros, ciência, educação ou cultura geek. 🚀🧙‍♂️📚 <img src="https://komarev.com/ghpvc/?username=vanjosa&label=Visits" alt="profile views" />
