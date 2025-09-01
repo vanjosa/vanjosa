@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou vanjosa!
+# 👋 Olá, eu sou Vinicius Anjos!
 
 > "Um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."  
 > — Gandalf, O Senhor dos Anéis
@@ -13,6 +13,10 @@
   - Pedagogia
   - Análise e Desenvolvimento de Sistemas (ADS)
 - Nerd/geek de carteirinha e leitor incorrigível
+- 
+<img src="https://komarev.com/ghpvc/?username=vanjosa&label=Visits" alt="profile views" />
+<img src="https://github-readme-stats.vercel.app/api?username=vanjosa&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanjosa&layout=compact" alt="Top Langs" />
 
 ## 🚀 Hobbies & Interesses
 
