@@ -23,6 +23,8 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 - [O enigma do espelho mágico](https://loja.uiclap.com/titulo/ua35763/)  
 - [Tenha coragem de ser imperfeito](https://loja.uiclap.com/titulo/ua38531/) 
 
+
+  
 ---
 ## Estatísticas no GitHub
 <div align="center">
