@@ -1,34 +1,28 @@
-# 🧙‍♂️ Vinicius Anjos – O Mago das Histórias
+# Vinicius Anjos
 
-> *"Um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."*  
+> "Um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar."  
 > — Gandalf, *O Senhor dos Anéis*
 
 ---
 
-## ⚔️ Missão de Vida
-Vinicius Anjos é um **guardião do conhecimento**, um mago que conjura histórias e descobertas. Entre livros, códigos e experimentos, sua missão é **inspirar mentes, provocar reflexões e criar mundos**.  
+## Sobre mim
+Sou **educador social, escritor e pesquisador em formação**, apaixonado por histórias, ciência e inovação na educação. Busco integrar conhecimento teórico e prática criativa, explorando diferentes áreas do saber para gerar impacto positivo.  
+
+- Educador social na **APAE**  
+- Escritor de livros de fantasia e desenvolvimento pessoal  
+- Graduando em:
+  - Ciências de Dados  
+  - Física  
+  - Pedagogia  
+  - Análise e Desenvolvimento de Sistemas (ADS)  
+- Pesquisador e entusiasta de novas metodologias de ensino  
 
 ---
 
-## 🎓 Habilidades do Herói
-- 🏛️ Educador social na **APAE** – transformando vidas com conhecimento e empatia  
-- ✍️ Escritor e narrador de histórias épicas e reflexões profundas  
-- 🎓 Aprendiz de múltiplas artes:
-  - Ciências de Dados (a magia dos números)  
-  - Física (entendendo as forças que governam o universo)  
-  - Pedagogia (a arte de ensinar e inspirar)  
-  - ADS – Análise e Desenvolvimento de Sistemas (criando feitiços digitais)  
-- 🤓 Nerd/geek e leitor incansável de mundos imaginários  
+## Livros Publicados
+- [O enigma do espelho mágico](https://loja.uiclap.com/titulo/ua35763/) – narrativa de fantasia e reflexão  
+- [Tenha coragem de ser imperfeito](https://loja.uiclap.com/titulo/ua38531/) – desenvolvimento pessoal e inspiracional  
 
----
-
-## 🌌 Feitiços e Artefatos (Projetos & Livros)
-- 📖 [O enigma do espelho mágico](https://loja.uiclap.com/titulo/ua35763/) – uma aventura que desafia a lógica e a imaginação  
-- ✨ [Tenha coragem de ser imperfeito](https://loja.uiclap.com/titulo/ua38531/) – guia para heróis em busca de coragem  
-
----
-
-## 🛠️ Ferramentas Mágicas (Tecnologias)
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -38,7 +32,7 @@ Vinicius Anjos é um **guardião do conhecimento**, um mago que conjura históri
 
 ---
 
-## 📊 Relatórios do Reino GitHub
+## Estatísticas no GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanjosa&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanjosa&layout=compact&theme=radical" alt="Top Langs" height="180em"/>
@@ -46,18 +40,17 @@ Vinicius Anjos é um **guardião do conhecimento**, um mago que conjura históri
 
 ---
 
-## 🌟 Aventuras e Interesses
-- 🎮 Explorar mundos nerd/geek: filmes, HQs, jogos e cultura pop  
-- 📚 Viajar por universos literários de fantasia e ficção científica  
-- 🔭 Descobrir os segredos da ciência, educação e tecnologia  
+## Interesses
+- Desenvolvimento pessoal e literatura de fantasia  
+- Ciência, tecnologia e inovação em educação  
+- Cultura nerd/geek: filmes, HQs e jogos, com foco em análise crítica  
 
 ---
 
-## 🌐 Portais de Conexão
+## Contatos
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ovinianjos/)  
 ![Profile Views](https://komarev.com/ghpvc/?username=vanjosa&label=Visualizações&color=blueviolet&style=flat-square)
 
 ---
 
-✨ Entre no meu reino!  
-Sinta-se à vontade para explorar, trocar feitiços de conhecimento ou simplesmente conversar sobre livros, ciência e aventuras nerd/geek 🚀🧙‍♂️📚
+Sinta-se à vontade para explorar meus projetos, publicações e conexões profissionais.
