@@ -20,18 +20,10 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 ---
 
 ## Livros Publicados
-- [O enigma do espelho mágico](https://loja.uiclap.com/titulo/ua35763/) – narrativa de fantasia e reflexão  
-- [Tenha coragem de ser imperfeito](https://loja.uiclap.com/titulo/ua38531/) – desenvolvimento pessoal e inspiracional  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
+- [O enigma do espelho mágico](https://loja.uiclap.com/titulo/ua35763/)  
+- [Tenha coragem de ser imperfeito](https://loja.uiclap.com/titulo/ua38531/) 
 
 ---
-
 ## Estatísticas no GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanjosa&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
