@@ -43,7 +43,7 @@ Sou **educador social, escritor e pesquisador em formação**, apaixonado por hi
 ## Interesses
 - Desenvolvimento pessoal e literatura de fantasia  
 - Ciência, tecnologia e inovação em educação  
-- Cultura nerd/geek: filmes, HQs e jogos, com foco em análise crítica  
+- Cultura nerd/geek: filmes, HQs e jogos
 
 ---
 
